@@ -1,1 +1,1 @@
-![deRenevo Banner](./banner.svg)
+![deRenevo Banner](./header.svg)
